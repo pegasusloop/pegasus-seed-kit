@@ -1,0 +1,44 @@
+# macOS system files
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+*.ipynb_checkpoints
+
+# Node (if you add any JS tooling later)
+node_modules/
+dist/
+build/
+
+# VS Code & JetBrains
+.vscode/
+.idea/
+
+# System-specific
+Thumbs.db
+desktop.ini
+
+# Logs & temp files
+*.log
+*.tmp
+*.bak
+
+# Output files & private drafts
+drafts/
+private/
+*.pdf
+*.docx
+*.csv
+
+# API keys or secrets (if you ever add)
+.env.local
+secrets.json
+
+# Ignore zipped archives or backups
+*.zip
+*.tar.gz
+*.bak.zip
