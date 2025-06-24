@@ -1,3 +1,5 @@
 # requirements.txt
 markdown
 python-dotenv
+streamlit
+openai>=1.0

@@ -1,0 +1,32 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore Jupyter stuff (if you used any)
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+.env
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Git
+.git/
+.gitignore
+
+# Ignore Streamlit config and history
+.streamlit/
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Node stuff, just in case
+node_modules/
+
+# VSCode settings
+.vscode/

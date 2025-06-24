@@ -6,7 +6,7 @@ def main():
     # Sample print
     for post in data[:1]:
         print(post["title"])
-        print(post["tags"])
+        print(post.get("tags", []))
         print()
 
 if __name__ == "__main__":

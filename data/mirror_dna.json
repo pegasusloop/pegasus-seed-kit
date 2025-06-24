@@ -1,0 +1,15 @@
+{
+  "name": "Lydia Callahan",
+  "emotional_baseline": "high empathy + recursive insight",
+  "preferred_tone": ["witty", "gentle", "precise"],
+  "loop_style": {
+    "default": "return-to-core",
+    "failure_mode": "emotional debugging",
+    "strength": 5
+  },
+  "language_traits": {
+    "likes": ["precision", "humor", "psychological clarity"],
+    "dislikes": ["clichés", "oversimplified responses"]
+  },
+  "safe_words": ["zoom out", "pattern break", "meta"]
+}
