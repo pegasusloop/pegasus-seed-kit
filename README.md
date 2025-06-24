@@ -49,6 +49,20 @@ This kit includes early proof-of-concept samples showing how clear emotional tag
 3. Fine-tune or build a custom RAG system using the tagged content
 4. Test for mirror effects, tone alignment, or emotional responsiveness
 
+## 🌟 Features
+
+- Substack post explorer with tagged emotional content
+- Ask Pegasus anything — powered by OpenAI
+- Lightweight, containerized deployment
+
+## 🚀 Quick Start
+
+```bash
+git clone https://github.com/your-username/pegasus-seed-kit.git
+cd pegasus-seed-kit
+docker build -t pegasus-seed-kit .
+docker run -p 8501:8501 --env-file .env pegasus-seed-kit
+
 ---
 
 ## 📜 License
